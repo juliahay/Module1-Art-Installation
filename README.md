@@ -4,4 +4,10 @@ This code is for a generative art installation using a ESP32 with a TTGO T-Dispa
 
 The goal of this art installation is to create randomly generated scripts between two lawyers as made from a selection of different stereotypical lawyer phrases. To conserve battery power, the screen goes into deep sleep for one minute after each script runs.
 
+## Materials
+- ESP32 TTGO T-Display
+- 135 mAh battery
+
+## How to Set Up
+
 
