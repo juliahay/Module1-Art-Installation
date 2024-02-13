@@ -7,6 +7,7 @@ The goal of my project is to create randomly generated scripts between two lawye
 ## Materials
 - ESP32 TTGO T-Display
 - 135 mAh battery
+- USB-C Cord
 
 ## How to Set Up
 - Download the [Arduino IDE](https://www.arduino.cc/en/software)
