@@ -6,7 +6,7 @@ The goal of my project is to create randomly generated scripts between two lawye
 
 ## Materials
 - ESP32 TTGO T-Display
-- 135 mAh battery
+- 220 mAh battery
 - USB-C Cord
 
 ## How to Set Up
@@ -19,4 +19,4 @@ The goal of my project is to create randomly generated scripts between two lawye
 - Find the folder on your CPU where Arduino libraries are stored and open the User_Setup_Select.h file in the TFT_eSPI library folder `Arduino/libraries/TFT_eSPI/User_Setup_Select.h`
   - Comment out the line `#include <User_Setup.h>`
   - Uncomment the line `#include <User_Setups/Setup25_TTGO_T_Display.h>`
-- At this point, you should be able to upload the code onto your TTGO T-Display by simply pressing the `Upload` button. The code should compile and run. 
+- At this point, you should be able to upload the code onto your TTGO T-Display by simply pressing the `Upload` button. The code should compile and run.
