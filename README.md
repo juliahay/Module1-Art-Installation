@@ -2,6 +2,8 @@
 
 This code is for a generative art installation using a ESP32 with a TTGO T-Dispaly. It was made in February 2024 for Professor Mark Santolucito's Creative Embedded Systems Course.
 
+![](https://github.com/juliahay/Module1-Art-Installation/blob/main/images/intCourtroom.JPG)
+
 The goal of my project is to create randomly generated scripts between two lawyers as made from a selection of different stereotypical lawyer phrases. To conserve battery power, the screen goes into deep sleep for one minute after each script runs.
 
 ## Materials
