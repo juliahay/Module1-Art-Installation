@@ -24,4 +24,4 @@ The goal of my project is to create randomly generated scripts between two lawye
 - At this point, you should be able to upload the code onto your TTGO T-Display by simply pressing the `Upload` button. The code should compile and run.
 
 ## Further Documentation
-To read the full blog post regarding this installation, visit [here]([https://juliahay.github.io/CES-portfolio/module1/module1.html)
+To read the full blog post regarding this installation, visit [here](https://juliahay.github.io/CES-portfolio/module1/module1.html)
